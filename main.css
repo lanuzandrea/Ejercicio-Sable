@@ -15,6 +15,12 @@ font-family: "Amplitude-Book";
 
 }
 
+.tag{
+position: fixed;
+right: 0px;
+top: 0px;
+}
+
 .txt{
 color: #534E68;
 padding-top: 30px;
@@ -22,7 +28,6 @@ font-size: 18px;
 letter-spacing: 3px;
 font-family: "Amplitude-Book"
 }
-
 
 .honor{
 color: #8258B6;
@@ -57,3 +62,31 @@ border-color: black;
 border-bottom: solid 1px #D6D7DC;
 }	
 
+
+
+.img3{
+width: 100%;
+height: 550px;
+text-align: center;
+font-size: 11px;
+background-color: #dfecf5;
+border: 30px;
+border-color: black;
+border-bottom: solid 1px #D6D7DC;
+}	
+
+.img4{
+width: 100%;
+height: 550px;
+text-align: center;
+font-size: 11px;
+background-color: #dfe0f4;
+border: 30px;
+border-color: black;
+border-bottom: solid 1px #D6D7DC;
+}	
+
+.social{
+text-align: center;
+padding: 40px;
+background-color: #8453C8;}
