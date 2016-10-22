@@ -1,7 +1,40 @@
+@font-face
+{
+font-family: "Amplitude-Book.otf";
+src: local("Fonts/Amplitude-Book.otf");
+}
 
+html{
+
+}
+
+.body{
+border: 0px;
+margin:0px;
+font-family: "Amplitude-Book";
+
+}
+
+.txt{
+color: #534E68;
+padding-top: 30px;
+font-size: 18px;
+letter-spacing: 3px;
+font-family: "Amplitude-Book"
+}
+
+
+.honor{
+color: #8258B6;
+font-size: 18px;
+font-weight: bold;
+padding-top: 20px;
+padding-bottom: 40px;
+font-size: 18px;
+letter-spacing: 3px;
+font-family: "Amplitude-Book"}
 
 .header{
-
 background: white;
 width: 100%;
 height: auto;
@@ -13,15 +46,14 @@ padding-bottom: 40px;}
 
 
 
-.txt{
-color: #534E68;
-padding-top: 30px;
-}
-
-.txt2{
-color: #E9E4F5;
-margin-top: 10px;
-padding-bottom: 10px;
-
-}
+.img2{
+width: 100%;
+height: 550px;
+text-align: center;
+font-size: 11px;
+background-color: #F4F4F4;
+border: 30px;
+border-color: black;
+border-bottom: solid 1px #D6D7DC;
+}	
 
